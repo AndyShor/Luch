@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dacc06df-f4c6-4906-938e-0ba9a30bd6a7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/dummy_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Einzellens_dummy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Einzellens_dummy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beamline.html" beforeDir="false" afterPath="$PROJECT_DIR$/beamline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beamline.py" beforeDir="false" afterPath="$PROJECT_DIR$/beamline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luch_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/luch_basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luch_elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/luch_elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luch_graphics.py" beforeDir="false" afterPath="$PROJECT_DIR$/luch_graphics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/236918.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/CERN-2006-012.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/GHGA_Acc_columns.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/GHGA_ES_deflectors.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/GHGA_ES_quad.PDF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/GHGA_Einzel_lens.PDF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/HVE_einzellens/A-6-81-716-002.idw.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/HVE_einzellens/B-6-81-717-004.idw.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/HVE_einzellens/C-8-06-238-002.idw (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/HVE_einzellens/C-8-06-238-002.idw.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/HVE_einzellens/C-8-06-241-002.idw.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/Py_package_thesis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/SimulatingBeamsWithEllipsoidalSymmetry-SecondEdition.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/SoftwareEngineeringAndBeamSimulation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/SymplecticityAndNumericalIntegrationInBeamOptics-Ver3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/adams1972.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/lu1987.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/p27.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/read1971.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/slac-r-075.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrixes/traceman.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scratchpad.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratchpad.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="scratchpad.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scratchpad.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-123" />
+    <option name="width" value="1854" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectId" id="1ZFaYeoBZ3wdTT3sgqtflGx5xy3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../logreader" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pyscripts\logreader" />
+      <recent name="C:\Users\as7595\Desktop\FEMM_ECR_calculations" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.beamline">
+    <configuration name="FEMM_axial_ECR_simplified" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/FEMM_ECR_calculations" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/FEMM_ECR_calculations/FEMM_axial_ECR_simplified.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="beamline" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beamline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dummy_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dummy_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="logreader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../logreader" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../logreader/logreader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="logreader_argus_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PID_log" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PID_log/logreader_argus_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="luch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.FEMM_axial_ECR_simplified" />
+      <item itemvalue="Python.beamline" />
+      <item itemvalue="Python.dummy_test" />
+      <item itemvalue="Python.logreader" />
+      <item itemvalue="Python.logreader_argus_1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.beamline" />
+        <item itemvalue="Python.dummy_test" />
+        <item itemvalue="Python.logreader" />
+        <item itemvalue="Python.FEMM_axial_ECR_simplified" />
+        <item itemvalue="Python.logreader_argus_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dacc06df-f4c6-4906-938e-0ba9a30bd6a7" name="Default" comment="" />
+      <created>1545048784582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545048784582</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3552" y="319" key="#beamline" timestamp="1584626431179">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3552" y="319" key="#beamline/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1584626431179" />
+    <state x="3541" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1584955570324">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="981" y="524" key="com.intellij.ide.util.TipDialog/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1584437357539" />
+    <state x="3541" y="524" key="com.intellij.ide.util.TipDialog/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1584955570324" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../PyCB/csd.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scratchpad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
