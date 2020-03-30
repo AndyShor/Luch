@@ -68,7 +68,7 @@ class Drift:
         mandatory trace method for any beamline-related class
         """
         gamma = particle.gamma()
-        r_matrix = np.matrix([[1, self.length, 0, 0, 0, 0],
+        r_matrix = np.array([[1, self.length, 0, 0, 0, 0],
                               [0, 1, 0, 0, 0, 0],
                               [0, 0, 1, self.length, 0, 0],
                               [0, 0, 0, 1, 0, 0],
@@ -113,7 +113,7 @@ class ThinLens:
             rzz = 0
         else:
             rzz = -1 / self.fz
-        r_matrix = np.matrix([[1, 0, 0, 0, 0, 0],
+        r_matrix = np.array([[1, 0, 0, 0, 0, 0],
                               [rxx, 1, 0, 0, 0, 0],
                               [0, 0, 1, 0, 0, 0],
                               [0, 0, ryy, 1, 0, 0],

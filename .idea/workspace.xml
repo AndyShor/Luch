@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dacc06df-f4c6-4906-938e-0ba9a30bd6a7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/dummy_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Einzellens_dummy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Einzellens_dummy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beamline.html" beforeDir="false" afterPath="$PROJECT_DIR$/beamline.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beamline.py" beforeDir="false" afterPath="$PROJECT_DIR$/beamline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luch_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/luch_basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luch_elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/luch_elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luch_graphics.py" beforeDir="false" afterPath="$PROJECT_DIR$/luch_graphics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/236918.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/CERN-2006-012.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/GHGA_Acc_columns.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/GHGA_ES_deflectors.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/GHGA_ES_quad.PDF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/GHGA_Einzel_lens.PDF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/HVE_einzellens/A-6-81-716-002.idw.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/HVE_einzellens/B-6-81-717-004.idw.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/HVE_einzellens/C-8-06-238-002.idw (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/HVE_einzellens/C-8-06-238-002.idw.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/HVE_einzellens/C-8-06-241-002.idw.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/Py_package_thesis.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/SimulatingBeamsWithEllipsoidalSymmetry-SecondEdition.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/SoftwareEngineeringAndBeamSimulation.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/SymplecticityAndNumericalIntegrationInBeamOptics-Ver3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/adams1972.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/lu1987.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/p27.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/read1971.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/slac-r-075.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixes/traceman.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scratchpad.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratchpad.py" afterDir="false" />
-    </list>
+    <list default="true" id="dacc06df-f4c6-4906-938e-0ba9a30bd6a7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +10,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="scratchpad.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="scratchpad.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scratchpad.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="streamlit_beamline_demo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/streamlit_beamline_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1596">
+              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,7 +51,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/streamlit_beamline_demo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-123" />
     <option name="width" value="1854" />
     <option name="height" value="1026" />
@@ -238,25 +226,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -290,6 +279,35 @@
         <state>
           <folding>
             <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratchpad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luch_basics.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streamlit_beamline_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
