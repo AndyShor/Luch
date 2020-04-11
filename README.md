@@ -1,3 +1,8 @@
+
+[![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
+[![build_and_test](https://github.com/AndyShor/Luch/workflows/build_and_test/badge.svg)]
+[![codecov](https://codecov.io/gh/AndyShor/Luch/branch/master/graph/badge.svg)](https://codecov.io/gh/AndyShor/Luch)
+
 # About
 
 Luch is a simulation and visualization toolkit for first order charged particle beam optics.
