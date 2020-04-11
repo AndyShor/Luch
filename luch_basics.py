@@ -161,3 +161,27 @@ class BeamLine:
         selfdescription = 'A beamline containing ' \
                           + str([type(element) for element in self.beamline])
         return selfdescription
+
+class Matrix:
+    """
+    basic class for tracing through a matrix element that has zero length and conserves energy and charge
+    """
+    # pylint: disable=too-few-public-methods
+    def __init__(self, **kwargs):
+        self.matrix = kwargs.get('matrix')
+        self.dz = kwargs.get('dz',0)
+        self.de = kwargs.get('de', 0)
+        self.dq = kwargs.get('dq', 0)
+
+    def trace(self, particle):
+        outvector = np.dot(self.matrix, particle.position)
+        particle.position = outvector
+
+        particle.energy = particle.energy + self.de
+
+        z_energy_charge = np.array(
+            [[particle.trajectory[-1, 6] + self.dz], [particle.energy / 1.6E-16], [particle.charge+self.dq]])
+        particle.trajectory = np.concatenate(
+            (particle.trajectory, np.concatenate((outvector.T, z_energy_charge.T), axis=1)), axis=0)
+
+        return particle
