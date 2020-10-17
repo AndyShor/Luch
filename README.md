@@ -2,7 +2,7 @@
 [![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
 ![build_and_test](https://github.com/AndyShor/Luch/workflows/build_and_test/badge.svg)
 [![codecov](https://codecov.io/gh/AndyShor/Luch/branch/master/graph/badge.svg)](https://codecov.io/gh/AndyShor/Luch)
-[![Heroku](https://heroku-badge.herokuapp.com/?app=beamline-demo)
+![Heroku](https://heroku-badge.herokuapp.com/?app=beamline-demo)
 
 Demo beam line - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyShor/Luch/master?filepath=Beamline_demo.ipynb)
 
