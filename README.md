@@ -12,9 +12,9 @@ electrostatic accelerating columns, einzel and quadrupole lenses.
 
 ![example optics](/images/luch_beamline.png)
 
-The transfer matrixes of optical elements are based on  work of Gillespie [1-4]
+The transfer matrixes of optical elements are based on  work of Gillespie [1-4].
 Compared  to old realizations Luch is written with OOP approach in mind.
-The benefits of such approach for beam optics simulations described by Christofer K Allen [5]
+The benefits of such approach for beam optics simulations described by Christofer K Allen [5].
  
 Using OOP and making Luch a toolkit rather than an executable 
  prioritizes ease of expansion, future support and flexibility.
@@ -27,7 +27,7 @@ coordinates, energy or charge.
 Luch is written in Python and is meant to be primarily used in interactive manner within
 Jupyter notebooks or as interactive web-apps with libraries such as streamlit.
 
-Luch is in the development stage, so unit tests and documentation are not there yet,
+Luch is in the development stage, so unit tests and documentation are presently limited,
 and changes to be expected. 
 
 # References
