@@ -2,6 +2,7 @@
 [![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
 ![build_and_test](https://github.com/AndyShor/Luch/workflows/build_and_test/badge.svg)
 [![codecov](https://codecov.io/gh/AndyShor/Luch/branch/master/graph/badge.svg)](https://codecov.io/gh/AndyShor/Luch)
+[![Heroku](https://heroku-badge.herokuapp.com/?app=beamline-demo)]
 
 Demo beam line - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyShor/Luch/master?filepath=Beamline_demo.ipynb)
 
@@ -30,6 +31,10 @@ Luch is written in Python and is meant to be primarily used in interactive manne
 Jupyter notebooks or as interactive web-apps with libraries such as streamlit. Try a demo on mybinder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyShor/Luch/master?filepath=Beamline_demo.ipynb)
+
+Luch can be used as a backend of interactive web-apps based on streamlit, see demo on heroku
+
+[Heroku](https://beamline-demo.herokuapp.com)
 
 Luch is in the development stage, so unit tests and documentation are presently limited,
 and changes to be expected. 
