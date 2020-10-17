@@ -10,6 +10,7 @@ Luch uses transfer matrix approach to trace and visualize beams  in beam lines
 made of standardized optical elements such as drift spaces, dipole magnets,
 electrostatic accelerating columns, einzel and quadrupole lenses.
 
+![example optics](/images/luch_beamline.png)
 
 The transfer matrixes of optical elements are based on  work of Gillespie [1-4]
 Compared  to old realizations Luch is written with OOP approach in mind.
