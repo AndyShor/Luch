@@ -1,5 +1,5 @@
 numpy==1.16.4
-bokeh==1.4.0
+bokeh==2.2.2
 pytest==5.3.0
 pytest-cov
 streamlit==0.69.2
