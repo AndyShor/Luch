@@ -73,5 +73,5 @@ ray2 = beamline.trace(proton2)
 # ------------------------plotting--------------------------
 plot=lg.plot_trajectory([ray1,ray2])
 st.bokeh_chart(plot)
-image = Image.open('optics.png')
+image = Image.open('images/optics.png')
 st.image(image, caption='Example optics to reproduce', use_column_width=True)
