@@ -8,7 +8,7 @@ def default_graph():
                       tools=['pan', 'box_zoom', 'reset', 'save', 'crosshair'],
                       toolbar_location='right', y_axis_type="linear", x_axis_type="linear",
                       x_axis_label='Coordinate, [m]',
-                      y_axis_label='deflection from reference trajectory')  # basic diagram layout
+                      y_axis_label='deviation from reference track')  # basic diagram layout
 
     # diagram typesetting
 
