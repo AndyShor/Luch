@@ -3,6 +3,8 @@
 ![build_and_test](https://github.com/AndyShor/Luch/workflows/build_and_test/badge.svg)
 [![codecov](https://codecov.io/gh/AndyShor/Luch/branch/master/graph/badge.svg)](https://codecov.io/gh/AndyShor/Luch)
 
+Demo beam line - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyShor/Luch/master?filepath=Beamline_demo.ipynb)
+
 # About
 
 Luch is a simulation and visualization toolkit for first order charged particle beam optics.
@@ -25,7 +27,9 @@ just a new class, defining how it changes particle properties such as
 coordinates, energy or charge. 
 
 Luch is written in Python and is meant to be primarily used in interactive manner within
-Jupyter notebooks or as interactive web-apps with libraries such as streamlit.
+Jupyter notebooks or as interactive web-apps with libraries such as streamlit. Try a demo on mybinder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyShor/Luch/master?filepath=Beamline_demo.ipynb)
 
 Luch is in the development stage, so unit tests and documentation are presently limited,
 and changes to be expected. 
