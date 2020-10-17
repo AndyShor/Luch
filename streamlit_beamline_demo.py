@@ -70,27 +70,8 @@ beamline = lb.BeamLine(beamline2)
 ray1 = beamline.trace(proton1)
 ray2 = beamline.trace(proton2)
 
-plot_x = np.array(ray1.trajectory[:, 6]).reshape(-1, )
-plot_y = np.array(ray1.trajectory[:, 0]).reshape(-1, )
-plot_y1 = -1 * np.array(ray1.trajectory[:, 2]).reshape(-1, )
-plot_y2 = np.array(ray2.trajectory[:, 0]).reshape(-1, )
-plot_y3 = -1 * np.array(ray2.trajectory[:, 2]).reshape(-1, )
-
-# ------------------------ graphics ---------------------
-
-plot = lg.default_graph()
-
-# generate the figure
-plot.line(plot_x, plot_y, line_width=2, muted_alpha=0.2, color='blue',
-          legend_label='divergent')  # add curve as a line to the figure
-plot.line(plot_x, plot_y1, line_width=2, muted_alpha=0.2, color='blue',
-          legend_label='divergent')  # add curve as a line to the figure
-plot.line(plot_x, plot_y2, line_width=2, muted_alpha=0.2, color='red',
-          legend_label='parallel')  # add curve as a line to the figure
-plot.line(plot_x, plot_y3, line_width=2, muted_alpha=0.2, color='red',
-          legend_label='parallel')  # add curve as a line to the figure
-
+# ------------------------plotting--------------------------
+plot=lg.plot_trajectory([ray1,ray2])
 st.bokeh_chart(plot)
 image = Image.open('optics.png')
-
 st.image(image, caption='Example optics to reproduce', use_column_width=True)
