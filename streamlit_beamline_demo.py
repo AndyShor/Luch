@@ -40,7 +40,7 @@ Radius = np.array([Radius[i] + i * dr / 1000  for i in range(len(Radius))])
 
 tube_lens_voltage = st.sidebar.slider('tube lens voltage [kV]', min_value=-60.0, max_value=0.0, value=-55.5, step=0.5,
                                       format=None, key=None)
-terminal_voltage = -1 * st.sidebar.slider('tube lens voltage [kV]', min_value=0, max_value=460, value=460, step=1,
+terminal_voltage = -1 * st.sidebar.slider('terminal voltage [kV]', min_value=0, max_value=460, value=460, step=1,
                                           format=None, key=None)
 
 Voltages_tube = np.linspace(0, terminal_voltage, 38)
