@@ -3,7 +3,7 @@ bokeh
 pytest
 pytest-cov
 streamlit
-jupyter==6.3.0
+jupyter
 click
 Flask
 itsdangerous
