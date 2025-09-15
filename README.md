@@ -29,12 +29,15 @@ coordinates, energy or charge.
 
 Luch is written in Python and is meant to be primarily used in interactive manner within
 Jupyter notebooks or as interactive web-apps with libraries such as streamlit. Try a demo on mybinder
+That demo runs in Python 3.8 environment and uses dependencies from requirements.txt
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndyShor/Luch/master?filepath=Beamline_demo.ipynb)
 
-Luch can be used as a backend of interactive web-apps based on streamlit, see demo on heroku
+Luch can be used as a backend of interactive web-apps based on streamlit.
+To run in create virtual environment with Python 3.12 using requirements_streamlit.txt
 
-[Heroku](https://beamline-demo.herokuapp.com)
+
+
 
 Luch is in the development stage, so unit tests and documentation are presently limited,
 and changes to be expected. 
