@@ -36,7 +36,7 @@ That demo runs in Python 3.8 environment and uses dependencies from requirements
 Luch can be used as a backend of interactive web-apps based on streamlit.
 To run in create virtual environment with Python 3.12 using requirements_streamlit.txt
 
-
+![example optics](/images/luch_demo.gif)
 
 
 Luch is in the development stage, so unit tests and documentation are presently limited,
