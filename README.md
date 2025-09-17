@@ -1,5 +1,5 @@
 
-[![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![build_and_test](https://github.com/AndyShor/Luch/workflows/build_and_test/badge.svg)](https://github.com/AndyShor/Luch/actions)
 [![codecov](https://codecov.io/gh/AndyShor/Luch/branch/master/graph/badge.svg)](https://codecov.io/gh/AndyShor/Luch)
 
